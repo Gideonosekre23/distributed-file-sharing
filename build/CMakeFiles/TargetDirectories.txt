@@ -1,0 +1,3 @@
+C:/Users/gideo/distributed-file-sharing/build/CMakeFiles/distributed_file_sharing.dir
+C:/Users/gideo/distributed-file-sharing/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/gideo/distributed-file-sharing/build/CMakeFiles/ZERO_CHECK.dir
